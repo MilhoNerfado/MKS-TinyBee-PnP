@@ -105,10 +105,10 @@
 #define HEATER_0_PIN                         145
 #ifndef MKS_TEST
 #define HEATER_1_PIN                         146
-#define FAN_PIN                              147
+#define FAN_PIN                              144
 #define FAN1_PIN                             148
 #endif
-#define HEATER_BED_PIN                       144
+#define HEATER_BED_PIN                       147
 
 //#define CONTROLLER_FAN_PIN                 148
 //#define E0_AUTO_FAN_PIN                    148  // need to update Configuration_adv.h @section extruder
